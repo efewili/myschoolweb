@@ -1,0 +1,27 @@
+
+
+.centerbox{
+border:13px solid brown;
+height:300px;
+Max-width:250px;
+margin:40px;
+padding:10px;
+color:blue;
+left: 200px;
+top: 100px;width:300px;
+display: flex;
+}
+
+.textbox{
+    border:15px solid green;
+    height:10%;
+    max-width: width 10px;100%;
+    margin:40px;
+    padding:10px;
+    color:orange;
+    left: 200px;
+    top: 100px;
+    width:500px;
+    line-height:500px;
+    display: flex;
+    }
